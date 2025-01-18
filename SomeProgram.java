@@ -9,4 +9,6 @@ public class SomeProgram {
      public void manageTheRockets() {
     // TODO implement
     }
+    public void newMethod(){
+    //TODO implement
 }
